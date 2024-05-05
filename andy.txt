@@ -1,7 +1,7 @@
 #SemFuck Agent v.x Build x
 # by : Mulda Janu
 # https://facebook.com/muldajanu
-# 081127999991111
+# 081279999911
 
 Android Chr 124.0 [Android Chrome *******]: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 Android Chr 124.0 [Android Chrome *******]: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
