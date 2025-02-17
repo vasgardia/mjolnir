@@ -27,8 +27,8 @@ iPhoneOS 18.3.1 Sfr 18.3 [iPhone Safari ***********]: Mozilla/5.0 (iPhone; CPU i
 iPhoneOS 18.3.1 Sfr 18.3 [iPhone Safari ***********]: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Mobile/15E148 Safari/604.1
 iPhoneOS 18.3.1 Sfr 18.3 [iPhone Safari ***********]: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Mobile/15E148 Safari/604.1
 iPhoneOS 18.3.1 Sfr 18.3 [iPhone Safari ***********]: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Mobile/15E148 Safari/604.1
-iPhoneOS 18.3 Sfr 18.3 [iPhone Safari ***********]: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Mobile/15E148 Safari/604.1
-iPhoneOS 18.3 Sfr 18.3 [iPhone Safari ***********]: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Mobile/15E148 Safari/604.1
+iPhoneOS 18.3.1 Sfr 18.3 [iPhone Safari ***********]: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Mobile/15E148 Safari/604.1
+iPhoneOS 18.3.1 Sfr 18.3 [iPhone Safari ***********]: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Mobile/15E148 Safari/604.1
 iPhoneOS 18.3 Sfr 18.3 [iPhone Safari ***********]: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Mobile/15E148 Safari/604.1
 iPhoneOS 18.3 Sfr 18.3 [iPhone Safari ***********]: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Mobile/15E148 Safari/604.1
 iPhoneOS 18.3 Sfr 18.3 [iPhone Safari ***********]: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Mobile/15E148 Safari/604.1
